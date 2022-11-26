@@ -101,3 +101,14 @@
   ```
   Network 0.0.0.0 Netmask 0.0.0.0 Next Hop 192.179.0.1
   ```
+  
+  ## CIDR GNS3
+
+### Subnetting
+- Pembagian Subnet 
+![subnet](https://cdn.discordapp.com/attachments/1046045273337647134/1046045351049711676/praktikum-jarkom-modul4-Subnet-CIDR.drawio.png)
+
+- Pohon IP
+![tree](https://cdn.discordapp.com/attachments/1046045273337647134/1046045351368466522/praktikum-jarkom-modul4-Tree-CIDR.drawio.png)
+
+ ![pembagian_ip](https://cdn.discordapp.com/attachments/1046045273337647134/1046045299593969755/image.png)
