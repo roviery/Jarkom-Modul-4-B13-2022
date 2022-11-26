@@ -112,4 +112,5 @@
 ![tree](https://cdn.discordapp.com/attachments/1046045273337647134/1046045351368466522/praktikum-jarkom-modul4-Tree-CIDR.drawio.png)
 
 - Pembagian IP
+
  ![pembagian_ip](https://cdn.discordapp.com/attachments/1046045273337647134/1046045299593969755/image.png)
